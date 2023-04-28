@@ -4,7 +4,7 @@ This branch is for *Heroes project*
 ---
 ### Info:
 
-**API_KEY = "https://superhero-search.p.rapidapi.com/api/"**
+    caonst val API_KEY = "https://superhero-search.p.rapidapi.com/api/"
 
 **Headers:**
 
