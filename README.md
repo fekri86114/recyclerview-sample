@@ -17,12 +17,3 @@ This branch is for *Heroes project*
 
 *then, create an account and an 'ApiApp'; so you can use its api_key*
 
-*If you couldn't do it, you can use mine.*
-
----
-
-Take a look at this:
-
-![Screenshot (30)](https://user-images.githubusercontent.com/92860582/235137628-64c8ff2c-3764-4547-95bd-3eaebc7defab.png)
-
-
